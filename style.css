@@ -47,7 +47,7 @@ a:hover{text-decoration:underline}
 .nav-links a.cta{background:linear-gradient(90deg,var(--brand),var(--brand-2));color:#0a1015;font-weight:700}
 .nav-toggle{display:none;background:none;border:0;color:#fff;font-size:22px}
 
-.hero{display:grid;grid-template-columns:1.2fr .8fr;gap:32px;align-items:center;padding:48px 0 16px}
+.hero{display:grid;grid-template-columns:1.2fr .8fr;gap:32px;align-items:start;padding:48px 0 16px}
 .hero-photo img{width:100%;border-radius:16px;box-shadow:0 10px 30px rgba(0,0,0,.4)}
 .contact{display:flex;gap:18px;flex-wrap:wrap;list-style:none;padding:0;margin-top:14px;color:var(--muted)}
 .contact a{color:#c7d7e5}
