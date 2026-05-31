@@ -35,7 +35,7 @@ a{color:#b5f1ff;text-decoration:none}
 a:hover{text-decoration:underline}
 
 .site-header{
-  position:sticky;top:0;z-index:50;
+  
   background: linear-gradient(to bottom, rgba(11,13,16,.9), rgba(11,13,16,.6), transparent);
   backdrop-filter: blur(6px);
 }
